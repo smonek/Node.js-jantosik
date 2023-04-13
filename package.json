@@ -1,0 +1,28 @@
+{
+  "name": "jantosik_node",
+  "version": "1.0.0",
+  "description": "Seznam skolnich ukolu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smonek/Node.js-jantosik.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "PUG",
+    "CSV"
+  ],
+  "author": "Simon Jantosik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smonek/Node.js-jantosik/issues"
+  },
+  "homepage": "https://github.com/smonek/Node.js-jantosik#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
